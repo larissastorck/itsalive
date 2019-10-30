@@ -1,6 +1,6 @@
 # It's Alive
 
-Developed in Unity for the Brownser platform.
+Developed in Unity for the Web platform.
 
 Unity version 2019.2.0f1
 
